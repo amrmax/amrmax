@@ -1,0 +1,27 @@
+Package: Alkaline
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/Alkaline.deb
+Size: 172902
+MD5sum: A4DC9A115F4C3975A6E8A5B30B73C888
+SHA1: EE54B761825F3D7D3AEF31AA1232E07D4541D6E8
+SHA256: 47F8A043F81529E27B87477C5E3A177254133435C56446A08BC76E943C605DD4
+Section: Tweaks
+Description: Battery Tweak
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Alkaline
+
+Package: Aporeo
+Version: 1.6-1
+Architecture: iphoneos-arm
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/aporeo_1.6-1.deb
+Size: 11904
+MD5sum: FC29FB22F5A3C3B6990033FC706DE6BF
+SHA1: DEbo28RDwrxDMrycnUU9ebHyQEJ1abjYWA
+SHA256: 5C9520C5B1D19F51586A8CAACDF975609A6213FC8770C2D8E8704E08FE8B7EA1
+Section: Tweaks
+Description: Charging Tweak
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Aporeo
