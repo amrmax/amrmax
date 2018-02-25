@@ -1,6 +1,7 @@
-Package: Alkaline
+Package: com.amrmax.alkaline
 Version: 1.0
 Architecture: iphoneos-arm
+Depends : firmware (>= 7.0), mobilesubstrate, preferenceloader
 Maintainer: Amr Max <amrmaxsam@gmail.com>
 Filename: debs/Alkaline.deb
 Size: 172902
@@ -8,20 +9,186 @@ MD5sum: A4DC9A115F4C3975A6E8A5B30B73C888
 SHA1: EE54B761825F3D7D3AEF31AA1232E07D4541D6E8
 SHA256: 47F8A043F81529E27B87477C5E3A177254133435C56446A08BC76E943C605DD4
 Section: Tweaks
-Description: Battery Tweak
+Description: Themeable status bar battery replacement for iOS 7/8/9/10/11.
 Author: Amr Max <amrmaxsam@gmail.com>
 Name: Alkaline
 
-Package: Aporeo
+Package: com.amrmax.aporeo
 Version: 1.6-1
 Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Maintainer: Amr Max <amrmaxsam@gmail.com>
 Filename: debs/aporeo_1.6-1.deb
 Size: 11904
 MD5sum: FC29FB22F5A3C3B6990033FC706DE6BF
-SHA1: DEbo28RDwrxDMrycnUU9ebHyQEJ1abjYWA
+SHA1: D16ECD0BE175B43271202B85441B661F74320541 
 SHA256: 5C9520C5B1D19F51586A8CAACDF975609A6213FC8770C2D8E8704E08FE8B7EA1
 Section: Tweaks
-Description: Charging Tweak
+Description: A Fast Charging solution for iOS!
 Author: Amr Max <amrmaxsam@gmail.com>
 Name: Aporeo
+
+Package: com.amrmax.apppercent
+Version: 2.0.2
+Architecture: iphoneos-arm
+Depends : mobilesubstrate, firmware (>= 9.0), preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/apppercent_2.0.2.deb
+Size: 16548
+MD5sum: C1AFF35A8BA038F40BACDAA86559A660
+SHA1: 455A20DFECE5E306970C1FDD0339D1D351FB0BE4
+SHA256: 3609D87DE48A308B00ABE39D7B1EE050392B749C9871A04FBDC20380C07DAE27
+Section: Tweaks
+Description: Apps Installation in Percent (%) and Notification
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Apppercent
+
+Package: com.amrmax.bloard
+Version: 0.1.2-1
+Architecture: iphoneos-arm
+Depends : firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/bloard_0.1.2-1.deb
+Size: 70118
+MD5sum: 7C0ADD2B1081D60EB4EDA8B9C58006E1
+SHA1: 953FF6C8B0CBE4A5CE54A7C5069AA8B4765F3791
+SHA256: 9C7493B3B1BC25798F01BAAABAF2E29327B9161338E22B9F834D11890891DB50
+Section: Tweaks
+Description: Universal dark keyboard for iOS 7/8/9/10/11
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Bloard
+
+Package: com.amrmax.blurrybadges
+Version: 1.1
+Architecture: iphoneos-arm
+Depends : mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/blurrybadges_1.1.deb
+Size: 52108
+MD5sum: C0FD95512B057B0C1E300794F39CF98E
+SHA1: B0B6DD0535EB392848497AE31D993367C3E98E9F
+SHA256: 53398D217E22B538466CC7D23FA7F8F2698EF90CFDEFB4EF5DD7EB44C2576B9C
+Section: Tweaks
+Description: Add customizable blur to SpringBoard icon badges.
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Blurrybadges
+
+Package: com.amrmax.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Depends : firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/cylinder_1.0.6.deb
+Size: 255488
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
+SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Section: Tweaks
+Description: Make your icons dance
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Cylinder
+
+Package: com.amrmax.darkmessages
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Depends : firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/darkmessages.deb
+Size: 80646
+MD5sum: EA09FA189207A2F1F06A0869F1608EDA
+SHA1: 20D666D6E0B3455505C29F8A26F531FA4A5E43C1
+SHA256: FBD00F89B411C67690AF45A1E89BA614666EB08E049AD0BE02CE695C911A2226
+Section: Tweaks
+Description: Dark mode for Messages (iOS 10/11)
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Darkmessages
+
+Package: com.amrmax.exkey
+Version: 1.8.9-3
+Architecture: iphoneos-arm
+Depends : firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/exkey.deb
+Size: 247442
+MD5sum: 8D8627FB3B044C0FA6B865D1EDA163BF
+SHA1: B7BDA1BF4E20DDE40CC596F84F75EC39B1DCB9E5
+SHA256: 9928EDC3DAD89AB46CFD5BEEA5400A858035E6BE7AC90E6DA0590E8A7D12F0C8
+Section: Tweaks
+Description: Adds extra row of keys to keyboard
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Exkey
+
+Package: com.amrmax.iconrenamer
+Version: 1.2.5
+Architecture: iphoneos-arm
+Depends : firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/iconrenamer_1.2.5.deb
+Size: 23468
+MD5sum: A4965A5FFD4DFF240183FDF2D492B4D8
+SHA1: 8279CA488A6DC9B49D21D79829ACA30C4D2DF679
+SHA256: 1E8C28917EC897789A1E79BB69102A135D1F2028402316FDD7483FA7842ACB28
+Section: Tweaks
+Description: Rename icons from your SpringBoard
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Iconrenamer
+
+Package: com.amrmax.lockscreencustomtext
+Version: 1.0
+Architecture: iphoneos-arm
+Depends : firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/lockscreencustomtext_1.0.deb
+Size: 25624
+MD5sum: 259D700EDF967CAD87992A53308E0B91
+SHA1: 8FE0A908469AEE1E76B051F98B36BF21EA5FD162
+SHA256: 7B0E0B0376481CDF6802F491999D8892D41B7BA277E474FE815937B009E67A46
+Section: Tweaks
+Description: Change the 'Press Home To Unlock' text
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Lockscreencustomtext
+
+Package: com.amrmax.romanpasscode
+Version: 2.1
+Architecture: iphoneos-arm
+Depends : firmware (>= 8.0), mobilesubstrate
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/romanpasscode_2.1.deb
+Size: 8348
+MD5sum: FFF48848EDFFE1FF5AD524AE65600102
+SHA1: 06802840A1FD782F3C1466E32F4DFFA11486BA9F
+SHA256: 33059EE50150592593AF16EC3FD9C6ABD9A0CB0D63C736A84FCD6A6FB78DF681
+Section: Tweaks
+Description: Roman numbers in Passcode
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Romanpasscode
+
+Package: com.amrmax.s8edge
+Version: 1.1
+Architecture: iphoneos-arm
+Depends : firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/s8edge_1.1.deb
+Size: 51856
+MD5sum: 801B4F4175AC9377C41B4166C19D05FF
+SHA1: 6C0005EC8BCB764F8863940261A13C26988939DA
+SHA256: F9CBA36626FD2CAEF6BFBEC21C59E3E2E5AFDD2D2FB664A5D8A4177974B10AE8
+Section: Tweaks
+Description: Brings Galaxy S8 Infinity to iOS
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: S8edge
+
+Package: com.amrmax.zeppelin
+Version: 2.1.0-12
+Architecture: iphoneos-arm
+Depends : firmware (>= 4.2), mobilesubstrate, preferenceloader
+Maintainer: Amr Max <amrmaxsam@gmail.com>
+Filename: debs/zeppelin_2.1.0-12.deb
+Size: 954352
+MD5sum: B2306ACA6CC4AFE7CCC57210C98C0612
+SHA1: D890A6B07D87E73F6FE50ED09DDCBDD1FBB12684
+SHA256: E786A1E78B97ABE1690388FE1795C9B32F1256428CAC6A49BD641F956CEE9113
+Section: Tweaks
+Description: Replaces carrier text with an image!
+Author: Amr Max <amrmaxsam@gmail.com>
+Name: Zeppelin
