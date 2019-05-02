@@ -193,7 +193,7 @@ Name: Zeppelin
 
 Package: com.amrmax.woke
 Version: 0.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Amr Max <amrmaxsam@gmail.com>
 Filename: debs/woke_0.5.deb
 Size: 6466
