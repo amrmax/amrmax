@@ -193,11 +193,13 @@ Name: Zeppelin
 
 Package: com.amrmax.woke
 Version: 0.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Amr Max <amrmaxsam@gmail.com>
 Filename: debs/woke_0.5.deb
 Size: 6466
 MD5sum: 593ce0b3ceba43cd81fc3be6382e2588
+SHA1: 20d0575dfb44437e242d07a314430630f7591661
+SHA256: ca7127cee429981f2d387a947817ccaac138a37f878d2db22dcca05bc53f4869
 Section: Tweaks
 Description: custom screen dim delay
 Author: Amr Max <amrmaxsam@gmail.com>
