@@ -153,11 +153,9 @@ Depends : firmware (>= 8.0), mobilesubstrate
 Maintainer: Amr Max <amrmaxsam@gmail.com>
 Filename: debs/romanpasscode_2.1.deb
 Size: 8348
-MD5sum: FFF48848EDFFE1FF5AD524AE65600102
-SHA1: 06802840A1FD782F3C1466E32F4DFFA11486BA9F
-SHA256: 33059EE50150592593AF16EC3FD9C6ABD9A0CB0D63C736A84FCD6A6FB78DF681
+MD5sum: fff48848edffe1ff5ad524ae65600102
 Section: Tweaks
-Description: Roman numbers in Passcode
+Description: Roman numbers in Passcode ios 12
 Author: Amr Max <amrmaxsam@gmail.com>
 Name: Romanpasscode
 
