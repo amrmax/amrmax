@@ -204,3 +204,20 @@ Section: Tweaks
 Description: custom screen dim delay
 Author: Amr Max <amrmaxsam@gmail.com>
 Name: woke-max
+
+Package: com.amrmax.appdispatch
+Version: 0.1-4
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate, applist, preferenceloader
+Filename: debs/com.amrmax.appdispatch_0.1-4_iphoneos-arm.deb
+Size: 76300
+MD5sum: c7f55e95fabd519036c47ea2ffc6d611
+SHA1: d8bd2a898e3cd50c0512c09f4012778074d6e906
+SHA256: 720ed1c1fced8aef78709191b4ad5a27744562d4d36ca8cdaa33ae35817d443d
+Section: Tweaks
+Priority: optional
+Description: Kills apps natively when visiting the home screen from application. Enable in Settings.
+Author: Amr Max
+Depiction: https://amrmax.github.io/depiction/appdispatch.html
+Name: AppDispatch
+Sileodepiction: https://amrmax.github.io/depiction/appdispatch/AppDispatch
